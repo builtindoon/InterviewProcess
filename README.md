@@ -35,7 +35,7 @@ For applicants who have no experience with deployments, please follow the instru
 3. Go to your project's root directory and build your react application: `npm run build`
 4. Go into the build directory created in last step: `cd build`
 5. Log into your Zeit Now account (created in step 1) by following instructions presented by running the command: `now login`
-6. Deploy your application (you should be in the build directory of your app): `now --name <firstName>-<last-name>`. For example, if a person's name is 'Pawan Samdani' he should run this: `now --name pawan-samdani`
+6. Deploy your application (you should be in the build directory of your app): `now --name <firstName>-<last-name>`. For example, if a person's name is 'Vinit Kamboj' he should run this: `now --name vinit-kamboj`
 
 ## Assignment Details
 
